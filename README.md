@@ -15,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-kumbhakarna-838a13221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-kumbhakarna-838a13221" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vaish15_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaish15_k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnavikumbha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavikumbha2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnavikumbhakarna467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavikumbhakarna467" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gauri-shejul-a37b781b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-kumbhakarna-838a13221" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/_gauri_patil_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_gauri_patil_03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
