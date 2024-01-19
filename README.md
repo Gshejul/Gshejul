@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gauri Shejul</h1>
 <h3 align="center">A passionate Web developer and programmer from India !</h3>
-<img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+<img align="right" alt="coder" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gshejul&label=Profile%20views&color=0e75b6&style=flat" alt="Gshejul" /> </p>
 
 - 🔭 I’m currently working on *ReactJS full stack Project.*
