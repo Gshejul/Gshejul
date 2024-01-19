@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi kumbhakarna</h1>
-<h3 align="center">A passionate Web developer and Coder from India !</h3>
+<h1 align="center">Hi 👋, I'm Gauri Shejul</h1>
+<h3 align="center">A passionate Web developer and programmer from India !</h3>
 <img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi1902&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi1902" /> </p>
-
-- 🌐 My Portfolio available here 👉🏻 <a href="https://vaishnavi1902.github.io/portfolio_/" target="_blank">Vaishnavi K.</a>
 
 - 🔭 I’m currently working on *ReactJS full stack Project.*
 
@@ -11,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on *web based projects.*
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnavi1902](https://github.com/vaishnavi1902)
+- 👨‍💻 All of my projects are available at [https://github.com/Gshejul](https://github.com/Gshejul)
 
-- 📫 How to reach me *vaishnavikumbhakarna467@gmail.com*
+- 📫 How to reach me *gauri03777@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
